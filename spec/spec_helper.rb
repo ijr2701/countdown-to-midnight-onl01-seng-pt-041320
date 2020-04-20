@@ -1,4 +1,0 @@
-
-  fake.string
-end
-end
