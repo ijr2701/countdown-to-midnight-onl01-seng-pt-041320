@@ -24,4 +24,3 @@ RSpec.configure do |config|
   end
   fake.string
 end
-end
